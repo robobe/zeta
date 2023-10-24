@@ -1,0 +1,3 @@
+[submodule "moduels/ardupilot_gazebo"]
+	path = moduels/ardupilot_gazebo
+	url = https://github.com/khancyr/ardupilot_gazebo.git
